@@ -6,27 +6,32 @@
 
 # Example predictions
 
-#### Stocks
+### Stocks
 
 Facebook:
+
 ![fb](https://github.com/stylepatrick/trading-price-prediction/blob/main/prediction/fb.jpg?raw=true)
 
 Apple:
+
 ![aapl](https://github.com/stylepatrick/trading-price-prediction/blob/main/prediction/aapl.jpg?raw=true)
 
 
 ### Cryptocurrency
 
 BTC-USD:
+
 ![btc-usd](https://github.com/stylepatrick/trading-price-prediction/blob/main/prediction/btc-usd.jpg?raw=true)
 
 ETH-USD:
+
 ![eth-usd](https://github.com/stylepatrick/trading-price-prediction/blob/main/prediction/eth-usd.jpg?raw=true)
 
 
 ### Currency
 
 EUR-USD:
+
 ![eur-usd](https://github.com/stylepatrick/trading-price-prediction/blob/main/prediction/eur-usd.jpg?raw=true)
 
 
