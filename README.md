@@ -1,5 +1,5 @@
 # trading-price-prediction
- Predict any stock, currency and cryptocurrency with neural network and machine learning for the next day.
+ Predict any stock, currency and cryptocurrency with neural network and machine learning.
 
 # Claim
  This is not a trading advise use it at your own risk. Markets have much more variables and can not get predicted to 100%.
