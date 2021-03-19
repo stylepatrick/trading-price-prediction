@@ -8,7 +8,8 @@ from sklearn.preprocessing import MinMaxScaler
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout, LSTM
 
-# Load data; You can use any stock or currency or cryptocurrency
+# Load data; You can use any stock or currency or cryptocurrency from yahoo finance or other sources
+# ex. BTC-USD; FB; AAPL; ETH-USD; EURUSD%3DX
 company = 'BTC-USD'
 
 start = dt.datetime(2012, 1, 1)
